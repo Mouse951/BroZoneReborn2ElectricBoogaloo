@@ -1,0 +1,6 @@
+[19440:8232:0309/135441.847:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19440:8232:0309/135441.932:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[19440:16520:0309/135441.971:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19440:8232:0309/135442.025:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19440:8232:0309/135449.351:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[21284:10648:0309/135456.829:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-62DD0871CE8F19014846B1F58BAF3955 will be ignored
