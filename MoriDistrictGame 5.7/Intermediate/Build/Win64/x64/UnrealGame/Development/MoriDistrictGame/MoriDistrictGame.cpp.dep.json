@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\uni\\masters\\endgame\\moridistrictgame 5.7\\intermediate\\source\\moridistrictgame.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\uni\\masters\\endgame\\moridistrictgame 5.7\\intermediate\\build\\win64\\x64\\moridistrictgame\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\uni\\masters\\endgame\\moridistrictgame 5.7\\intermediate\\build\\win64\\x64\\unrealgame\\development\\moridistrictgame\\definitions.moridistrictgame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

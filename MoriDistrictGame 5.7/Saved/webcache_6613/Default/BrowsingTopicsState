@@ -1,33 +1,33 @@
 {
    "epochs": [ {
-      "calculation_time": "13414514638861305",
+      "calculation_time": "13423527833600987",
       "config_version": 0,
       "model_version": "0",
       "padded_top_topics_start_index": 0,
       "taxonomy_version": 0,
       "top_topics_and_observing_domains": [  ]
    }, {
-      "calculation_time": "13415122301804267",
+      "calculation_time": "13427471473360041",
       "config_version": 0,
       "model_version": "0",
       "padded_top_topics_start_index": 0,
       "taxonomy_version": 0,
       "top_topics_and_observing_domains": [  ]
    }, {
-      "calculation_time": "13416279588000817",
+      "calculation_time": "13428504295927875",
       "config_version": 0,
       "model_version": "0",
       "padded_top_topics_start_index": 0,
       "taxonomy_version": 0,
       "top_topics_and_observing_domains": [  ]
    }, {
-      "calculation_time": "13417528717591025",
+      "calculation_time": "13429247455924712",
       "config_version": 0,
       "model_version": "0",
       "padded_top_topics_start_index": 0,
       "taxonomy_version": 0,
       "top_topics_and_observing_domains": [  ]
    } ],
-   "hex_encoded_hmac_key": "5D1CECE3A3FB76E4199F75B1EEBBC0A4FE2D6A9AA365CD1DDE8BD16989063C1D",
-   "next_scheduled_calculation_time": "13418133517592176"
+   "hex_encoded_hmac_key": "829E3594C41B9382D0E7CC93F5ED5072D15538E500D9D164708B5BA4A8100487",
+   "next_scheduled_calculation_time": "13429852255966571"
 }

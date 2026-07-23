@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"G:\\UNI\\Masters\\ENDGAME\\MoriDistrictGame 5.7\\Intermediate\\Source\\MoriDistrictGame.Build.cs",
+		"G:\\UNI\\Masters\\ENDGAME\\MoriDistrictGame 5.7\\Intermediate\\Source\\MoriDistrictGame.Target.cs",
+		"G:\\UNI\\Masters\\ENDGAME\\MoriDistrictGame 5.7\\Intermediate\\Source\\MoriDistrictGameClient.Target.cs",
+		"G:\\UNI\\Masters\\ENDGAME\\MoriDistrictGame 5.7\\Intermediate\\Source\\MoriDistrictGameEditor.Target.cs",
+		"G:\\UNI\\Masters\\ENDGAME\\MoriDistrictGame 5.7\\Intermediate\\Source\\MoriDistrictGameServer.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}

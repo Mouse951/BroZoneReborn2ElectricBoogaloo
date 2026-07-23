@@ -14,6 +14,11 @@
 		{
 			"Name": "GameplayStateTree",
 			"Enabled": true
+		},
+		{
+			"Name": "LidarScanner",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/40dc9d3af379433782885d4b3184bd56"
 		}
 	]
 }
